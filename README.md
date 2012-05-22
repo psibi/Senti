@@ -6,7 +6,7 @@ Senti is a Sentiment Analyzer based on AFINN.
 Usage:
 ------
 
-An example of how to get various status update from the public timeline.
+An example of how to get print the sentiment strength based on input text.
 
     	from senti_analysis import *
 
