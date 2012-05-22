@@ -1,7 +1,4 @@
 #!/usr/bin/python 
-#
-# wget wget http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6010/zip/imm6010.zip
-# unzip imm6010.zip
 
 import math
 import re
